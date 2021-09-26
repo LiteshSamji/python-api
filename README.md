@@ -49,6 +49,4 @@ The next step was identifying cities to vacation in based on ideal weather condi
 
 * Cities with humidity less than 75%
 
-This resulted in 8 cities after which Google Places API was used to find the first hotel for each city located within 5000 meters of its coordinates. Information for one of the 8 cities was not available and this row was dropped. With the final hotel list at 7 cities, hotel markers were plotted on top of the heatmap as below.
-
 ![Heatmap-Hotels](Images/Heatmap-Hotels.png)  
